@@ -14,3 +14,4 @@ The developers welcome feedback to further clarify this standard and minimize an
 ## Harmonized Standards
 
 ISO/DIS 21780 - Road vehicles — Supply voltage of 48 V — Electrical requirements and tests.
+Another reference.
